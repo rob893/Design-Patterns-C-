@@ -6,8 +6,8 @@ namespace Design_Patterns
 {
     public class Person2
     {
-        public string StreetAddress, Postcode, City;
-        public string CompanyName, Position;
+        public string StreetAddress = "", Postcode = "", City = "";
+        public string CompanyName = "", Position = "";
         public int AnnualIncome;
 
 
